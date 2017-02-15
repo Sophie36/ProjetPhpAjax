@@ -44,3 +44,4 @@ if(isset($_POST['valider'])){
                 </br>
                 <input type='submit' name='valider' value='Valider'>
 </form> 
+<script src="validation.js"></script>
