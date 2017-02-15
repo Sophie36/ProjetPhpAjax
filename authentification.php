@@ -44,4 +44,4 @@ if(isset($_POST['valider'])){
                  value=''>
     <input type='submit' name='valider' value='Se Connecter'>
 </form>
-    
+<a href="inscription.php">Inscrivez-vous</a>
